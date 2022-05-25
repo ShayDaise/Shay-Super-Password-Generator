@@ -1,1 +1,2 @@
 # Shay-Super-Password-Generator
+Given the starter code I used a series of logical screenings to determine criteria for a password then using combinations of if statments, while and for loops randomly generate a password for whoever clicks on the generate password button based off their criteria.
